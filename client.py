@@ -1,4 +1,4 @@
-# Etudiants : Layadi et Missara
+# Etudiant : Layadi 
 
 # --------Script pour Tkinter GUI chat client----------
 from socket import AF_INET, socket, SOCK_STREAM
