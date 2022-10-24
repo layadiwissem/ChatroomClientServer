@@ -1,4 +1,4 @@
-# Etudiants : Layadi et Missara
+# Etudiants : Layadi
 # ---------Serveur prend en charge plusieurs clients en même temps----------
 from socket import AF_INET, socket, SOCK_STREAM
 from threading import Thread
